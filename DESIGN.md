@@ -1,0 +1,3 @@
+# Technicq Support
+Tema oscuro solicitado por el usuario para un equipo trabajando en una consola de tickets, con conversación y editor visibles durante la atención. Estrategia contenida: superficies carbón con matiz verde, acento verde terminal en acciones y estados. Sin imágenes: el contenido son formularios, colas y conversaciones; CSS y tipografía bastan.
+Sans del sistema para lectura; monospace para marca, códigos, metadatos y editor. Bordes de 1px, radios de 4px, sin brillo ni animación ornamental. Tres columnas en escritorio, dos en tableta y una en móvil. Foco visible verde claro. Ningún texto de la interfaz debe describirla como prueba, práctica, simulación o laboratorio. README mantiene el alcance técnico real.
